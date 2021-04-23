@@ -79,7 +79,8 @@ workspace "Sandbox"
         {
             "SDL2",
             "assimp-vc142-mt",
-            "OpenAL32"
+            "OpenAL32",
+            "freetype"
         }
         
 
